@@ -1,0 +1,1 @@
+This should be set as CAIRO_DIR in project tool.
