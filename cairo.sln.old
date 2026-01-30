@@ -1,25 +1,13 @@
 Microsoft Visual Studio Solution File, Format Version 12.00
-# Visual Studio Version 16
-VisualStudioVersion = 16.0.28315.86
+# Visual Studio Version 17
+VisualStudioVersion = 17.0.31903.59
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "cairo", "cairo.vcxproj", "{CFEC8B5E-9B43-462C-8202-5E7D621B8B64}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
-		vs2019_Debug|x64 = vs2019_Debug|x64
-		vs2019_Debug|x86 = vs2019_Debug|x86
-		vs2019_Release|x64 = vs2019_Release|x64
-		vs2019_Release|x86 = vs2019_Release|x86
-		vs2022_Debug|x64 = vs2022_Debug|x64
-		vs2022_Debug|x86 = vs2022_Debug|x86
-		vs2022_Release|x64 = vs2022_Release|x64
-		vs2022_Release|x86 = vs2022_Release|x86
 	EndGlobalSection
 	GlobalSection(ProjectConfigurationPlatforms) = postSolution
-		{CFEC8B5E-9B43-462C-8202-5E7D621B8B64}.vs2019_Debug|x64.ActiveCfg = vs2019_Debug|x64
-		{CFEC8B5E-9B43-462C-8202-5E7D621B8B64}.vs2019_Debug|x64.Build.0 = vs2019_Debug|x64
-		{CFEC8B5E-9B43-462C-8202-5E7D621B8B64}.vs2019_Debug|x86.ActiveCfg = vs2019_Debug|Win32
-		{CFEC8B5E-9B43-462C-8202-5E7D621B8B64}.vs2019_Debug|x86.Build.0 = vs2019_Debug|Win32
 		{CFEC8B5E-9B43-462C-8202-5E7D621B8B64}.vs2019_Release|x64.ActiveCfg = vs2019_Release|x64
 		{CFEC8B5E-9B43-462C-8202-5E7D621B8B64}.vs2019_Release|x64.Build.0 = vs2019_Release|x64
 		{CFEC8B5E-9B43-462C-8202-5E7D621B8B64}.vs2019_Release|x86.ActiveCfg = vs2019_Release|Win32
